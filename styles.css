@@ -151,7 +151,7 @@ body {
 
 .carousel-container {
   position: relative;
-  width: 70vw; /* 70% of the viewport width */
+  width: 70vw;
   margin: 4rem auto;
   overflow: hidden;
 }
@@ -162,11 +162,11 @@ body {
 }
 
 .carousel-slide {
-  flex: 0 0 100%; /* Each slide takes up 100% of the container width */
+  flex: 0 0 100%;
   text-align: center;
   border-radius: 8px;
   overflow: hidden;
-  box-sizing: border-box; /* Ensures padding and border are included in the total width */
+  box-sizing: border-box;
 }
 
 .carousel-slide img {
@@ -175,7 +175,6 @@ body {
   display: block;
 }
 
-/* Navigation buttons */
 .carousel-btn {
   position: absolute;
   top: 50%;
