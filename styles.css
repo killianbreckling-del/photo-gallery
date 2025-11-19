@@ -202,3 +202,14 @@ body {
 .next-btn {
   right: 10px;
 }
+.video-container {
+  width: 80%;
+  
+  margin: 0 auto;
+}
+
+.video-container video {
+  width: 100%;
+  
+  height: auto;
+}
