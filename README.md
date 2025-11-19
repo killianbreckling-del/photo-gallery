@@ -1,1 +1,31 @@
-this is a base, well not a base, but you can use it as a base for a photography site! i was going to keep this repository private because the code and is kind of sloppy because im new to coding, and ai atleast wrote  a third of it, so theres a lot of random comments in certain places. but i figured that most people would fix it up theirselves so im making it public... if you do use this as a template just note it does have images and stuff because im going to use this for a photography site im building so if you do use this i ask you remove my images i have in it or videos. thankyou and enjoy. (you can just remix the code for your own images and videos and just change the <h1> and <p> tags to put in your own stuff, obviously. i just wanted to note that)
+<html>
+  <head>
+  <style>
+  h1 {
+  text-align: center;
+  background: linear-gradient(
+    to right, green, lightblue, white
+  );
+    -webkit-background-clip: text;
+  background-clip: text;
+   color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+  p {
+  text-align: center;
+  background: linear-gradient(
+    to right, pink, red, yellow
+  );
+    -webkit-background-clip: text;
+  background-clip: text;
+   color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+body {
+background-color: orange;
+}
+</style>
+  </head>
+  <h1>hello!</h1>
+<p>this is a base, well not a base, but you can use it as a base for a photography site! i was going to keep this repository private because the code and is kind of sloppy because im new to coding, and ai atleast wrote  a third of it, so theres a lot of random comments in certain places. but i figured that most people would fix it up theirselves so im making it public... if you do use this as a template just note it does have images and stuff because im going to use this for a photography site im building so if you do use this i ask you remove my images i have in it or videos. thankyou and enjoy. (you can just remix the code for your own images and videos and just change the h1 and p tags to put in your own stuff, obviously. i just wanted to note that)</p>
+</html>
